@@ -7,32 +7,40 @@ function Cards() {
     <div className='cards'>
       <h1>
         Click to learn more about them on my
-        <a href='https://github.com/harrisbchong' > <em>Github</em></a>
+        <a href='https://github.com/harrisbchong' target='_blank' rel="noreferrer"> <em>Github</em></a>
       </h1>
       <div className='cards__container'>
         <div className='cards__wrapper'>
           <ul className='cards__items'>
             <CardItem
-              src="images/img-9.jpg"
+              src="images/reddit.png"
               text="Reddit Webscraper"
               subtext="test"
-              label="adventure"
-              path='/services'
+              label="Python"
+              path='/products'
+              href='https://github.com/harrisbchong/Reddit-Webscraper'
+
             />
             <CardItem
-              src="images/img-2.jpg"
+              src="images/chrome-extension.png"
               text="UofT Shortcuts Chrome Extension"
               subtext="test"
-              label="adventure"
-              path='/services'
+              label="HTML"
+              path='/products'
+              href='https://github.com/harrisbchong/UofT-Shortcuts-Chrome-Extension'
+
             />
             <CardItem
-              src="images/img-9.jpg"
+              src="images/website.png"
               text="Personal Website"
-              label="adventure"
-              path='/services'
+              subtext="test"
+              label="React + CSS + JS"
+              path='/products'
+              href='https://github.com/harrisbchong/Website'
+
             />
           </ul>
+
         </div>
       </div>
     </div>
