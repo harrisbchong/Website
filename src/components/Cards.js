@@ -15,7 +15,7 @@ function Cards() {
             <CardItem
               src="images/reddit.png"
               text="Reddit Webscraper"
-              subtext="test"
+              subtext="Webscraper in python that scrapes the top weekly posts on r/CryptoCurrency. Script uses sentiment analysis to export data from the extracted posts into positive/negative .csv files for use."
               label="Python"
               path='/products'
               href='https://github.com/harrisbchong/Reddit-Webscraper'
@@ -24,7 +24,7 @@ function Cards() {
             <CardItem
               src="images/chrome-extension.png"
               text="UofT Shortcuts Chrome Extension"
-              subtext="test"
+              subtext="A Google Chrome extension which allows you to easily access important websites for students at the University of Toronto."
               label="HTML"
               path='/products'
               href='https://github.com/harrisbchong/UofT-Shortcuts-Chrome-Extension'
@@ -33,7 +33,7 @@ function Cards() {
             <CardItem
               src="images/website.png"
               text="Personal Website"
-              subtext="test"
+              subtext="Personal/Portfolio website made using React, HTML, and CSS."
               label="React + CSS + JS"
               path='/products'
               href='https://github.com/harrisbchong/Website'
