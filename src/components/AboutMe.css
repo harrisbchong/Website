@@ -1,0 +1,24 @@
+.h1 {
+    margin-top: 100px;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 4rem;
+    background: #fff;
+}
+
+.paragraph {
+    font-family: 'Helvetica';
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    max-width: 700px;
+    word-wrap: break-word;
+    line-height: 22px;
+}
