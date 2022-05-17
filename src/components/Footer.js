@@ -37,7 +37,7 @@ function Footer() {
             </Link>
           </div>
           <small class='website-rights'>
-            Harris Chong © 2020
+            Harris Chong © 2022
           </small>
 
           <div class='social-icons'>
