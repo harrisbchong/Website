@@ -12,7 +12,7 @@ function Cards() {
         <div className='cards__wrapper'>
           <ul className='cards__items'>
             <CardItem
-              src="images/reddit.png"
+              src="./images/reddit.png"
               text="Reddit Webscraper"
               subtext="Webscraper in python that scrapes the top weekly posts on r/CryptoCurrency. Script uses sentiment analysis to export data from the extracted posts into positive/negative .csv files for future analysis."
               label="Python"
@@ -21,7 +21,7 @@ function Cards() {
 
             />
             <CardItem
-              src="images/chrome-extension.png"
+              src="./images/chrome-extension.png"
               text="UofT Shortcuts Chrome Extension"
               subtext="A Google Chrome extension which allows you to easily access important websites for students at the University of Toronto."
               label="HTML"
@@ -30,7 +30,7 @@ function Cards() {
 
             />
             <CardItem
-              src="images/website.png"
+              src="./images/website.png"
               text="Personal Website"
               subtext="Personal/Portfolio website made using React, HTML, and CSS."
               label="React + CSS + JS"
