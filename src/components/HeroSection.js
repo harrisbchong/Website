@@ -5,7 +5,7 @@ import '../App.css';
 function HeroSection() {
   return (
     <div className='hero-container'>
-      <video src='./videos/video-4.mp4' autoPlay loop muted />
+      <video src='videos/video-4.mp4' autoPlay loop muted />
       <h1>HARRIS CHONG</h1>
       <p>2nd year CS @ University of Toronto</p>
 
