@@ -16,7 +16,7 @@ function Cards() {
               text="Reddit Webscraper"
               subtext="Webscraper in python that scrapes the top weekly posts on r/CryptoCurrency. Script uses sentiment analysis to export data from the extracted posts into positive/negative .csv files for future analysis."
               label="Python"
-              path='/products'
+              path='/projects'
               href='https://github.com/harrisbchong/Reddit-Webscraper'
 
             />
@@ -25,7 +25,7 @@ function Cards() {
               text="UofT Shortcuts Chrome Extension"
               subtext="A Google Chrome extension which allows you to easily access important websites for students at the University of Toronto."
               label="HTML"
-              path='/products'
+              path='/projects'
               href='https://github.com/harrisbchong/UofT-Shortcuts-Chrome-Extension'
 
             />
@@ -34,7 +34,7 @@ function Cards() {
               text="Personal Website"
               subtext="Personal/Portfolio website made using React, HTML, and CSS."
               label="React + CSS + JS"
-              path='/products'
+              path='/projects'
               href='https://github.com/harrisbchong/Website'
 
             />
