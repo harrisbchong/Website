@@ -15,7 +15,7 @@ function AboutMe() {
                 Hi!
                 <br></br>
                 <br></br>
-                My name is <a className='text-link' href='https://www.linkedin.com/in/harrischong/'>Harris</a> and I am currently a second year student at the <b>University of Toronto</b> studying <b>Computer Science</b>
+                My name is <a className='text-link' href='https://www.linkedin.com/in/harrischong/'>Harris</a> and I am currently a second year student at the <b>University of Toronto</b> studying <b>Computer Science </b>
                 in the Software Engineering Specialist.
                 <br></br>
                 <br></br>
