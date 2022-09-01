@@ -30,7 +30,7 @@ function Cards() {
 
             />
             <CardItem
-              src="./images/website.PNG"
+              src="./images/website.png"
               text="Personal Website"
               subtext="Personal/Portfolio website made using React, HTML, and CSS."
               label="React + CSS + JS"
