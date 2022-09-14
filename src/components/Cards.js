@@ -14,7 +14,7 @@ function Cards() {
             <CardItem
               src="./images/reddit.PNG"
               text="Reddit Webscraper"
-              subtext="Webscraper in python that scrapes the top weekly posts on r/CryptoCurrency. Script uses sentiment analysis to export data from the extracted posts into positive/negative .csv files for future analysis."
+              subtext="Webscraper that scrapes the top weekly posts on r/CryptoCurrency. Uses sentiment analysis to export data from the extracted posts into positive/negative .csv files."
               label="Python"
               path='/projects'
               href='https://github.com/harrisbchong/Reddit-Webscraper'
@@ -38,8 +38,16 @@ function Cards() {
               href='https://github.com/harrisbchong/Website'
 
             />
-          </ul>
+            <CardItem
+              src="./images/front.PNG"
+              text="Job Application Manager"
+              subtext="MERN stack CRUD application to help track and manage your job applications."
+              label="React + Express + Node + MongoDB"
+              path='/projects'
+              href='https://github.com/harrisbchong/Job-Application-Manager'
 
+            />
+          </ul>
         </div>
       </div>
     </div>

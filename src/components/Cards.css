@@ -28,6 +28,8 @@ a {
 }
 
 .cards__wrapper {
+  display: flex;
+  flex-flow: row wrap;
   position: relative;
   margin: 50px 0 45px;
 }
