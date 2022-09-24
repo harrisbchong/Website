@@ -1,6 +1,6 @@
 import React from 'react';
 import './Button.css';
-import resume from "./testpdf.pdf"
+import resume from "./Harris_Chong_Resume.pdf"
 
 const STYLES = ['btn--primary', 'btn--outline'];
 
