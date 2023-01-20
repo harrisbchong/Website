@@ -1,4 +1,4 @@
-# Personal Website
+# (Outdated) Personal Website
 My first personal <a href="https://harrisbchong.github.io/Website/">website</a>.
 
 You can learn more about me, my projects, and my experiences here.
